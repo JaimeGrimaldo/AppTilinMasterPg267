@@ -1,0 +1,15 @@
+.contenedor h1 {
+  font-size: 1rem;
+}
+
+.contenedor textarea {
+  outline: none;
+  padding: 10px;
+  color: gray;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.contenedor {
+  text-align: start;
+}
